@@ -1,0 +1,17 @@
+*.bak
+*.DS_Store
+*.swp
+*.pyc
+*.pth
+*.t7
+*.caffemodel
+**/.ipynb_checkpoints
+*.bbl
+*.fls
+*.synctex.gz
+*.fdb_latexmk
+*.blg
+.idea/
+!notebooks/output/**/*
+!notebooks/output/**/*
+.vscode/

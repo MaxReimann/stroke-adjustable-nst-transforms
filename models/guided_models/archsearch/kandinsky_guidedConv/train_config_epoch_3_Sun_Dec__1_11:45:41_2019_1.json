@@ -1,0 +1,21 @@
+{
+img_upscale_epoch2: True,
+pixel_kern_size: 9,
+dgf_type: guidedConv,
+batch_size: 1,
+dataset: /projects/data/mscoco/images,
+epochs: 3,
+network_version: v2,
+log_interval: 100,
+style_path: /projects/nst/styles_all/kandinsky.jpg,
+style_size: 1024,
+resume_train: None,
+content_size: 512,
+style_weight: 5.0,
+checkpoint_model_dir: /home/max-reimann/adjustableNST/upscale_models/kandinsky_guided_conv,
+lr: 0.001,
+cuda: True,
+dump_config: <bound method Args.dump_config of <__main__.Args object at 0x7f55906340d0>>,
+content_weight: 1.0,
+checkpoint_interval: 10000
+}
