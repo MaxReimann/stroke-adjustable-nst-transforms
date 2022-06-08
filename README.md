@@ -1,6 +1,6 @@
 # Flexible Stroke Control in Fast Style Transfer
 
-This repository contains the PyTorch code for our paper "Controlling Strokes in Fast Neural Style Transfer using Content Transforms", TVCJ 2022 (to appear).
+This repository contains the PyTorch code for our paper ["Controlling Strokes in Fast Neural Style Transfer using Content Transforms"](https://link.springer.com/article/10.1007/s00371-022-02518-x), TVCJ 2022.
 
 Make sure to pull the repository with git-lfs to retrieve the models.
 
